@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**guillermotp01/guillermotp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1 align="center">Hola, soy Guillermo 👋</h1>
+</div>
 
-Here are some ideas to get you started:
+<!--  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Practicante+de+Ingenieria+de+Sistemas..&hearts;++;En+busca+de+nuevos+retos;Con+ganas+de+aprender+cosas+nuevas"></a>
+</p>
+
+
+### Sobre mi
+
+- ⭐ Practicante de Ingenieria de Sistemas⭐ 
+- 👨🏼‍🎓 Estudiante en la Universidad Privada del Norte
+- 🎮 Me gusta jugar en mis tiempos libres
+- 📖 Me considero una persona autodidacta 
+
+<!--  -->
+
+### </> Conocimientos
+
+**Lenguajes:** `C#` `C++` `Python` `Java` 
+
+**Desarrollo Web:** `HTML` `CSS` `JavaScript` `Node.js` `Angular`
+ 
+**Control de Versiones:** `Git` 
+
+**Base de Datos:** `MySQL` `MongoDB` `SQLSever`
+
+<!--  -->
+
+### ⚙️ &nbsp;Análisis GitHub
+
+<p align="center">
+<a href="https://github.com/guillermotp01">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guillermotp01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guillermotp01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
